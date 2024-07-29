@@ -1,0 +1,1 @@
+This is graphic timer made on java swing.
